@@ -1,0 +1,37 @@
+# ---- Obsidian: 기본 무시 ----
+.obsidian/**
+
+# ---- 디렉터리 재포함(중요) ----
+!.obsidian/
+!.obsidian/plugins/
+!.obsidian/plugins/**
+!.obsidian/snippets
+!.obsidian/snippets/**
+!.obsidian/themes
+!.obsidian/themes/**
+
+# ---- 동기화할 핵심 설정 ----
+!.obsidian/app.json
+!.obsidian/hotkeys.json
+!.obsidian/core-plugins.json
+!.obsidian/community-plugins.json
+!.obsidian/appearance.json
+
+# ---- 플러그인 메타/설정만 포함 ----
+!.obsidian/plugins/**/manifest.json
+!.obsidian/plugins/**/data.json
+!.obsidian/plugins/**/data.example.json
+
+# ---- 플러그인 코드 ----
+!.obsidian/plugins/**/main.js
+!.obsidian/plugins/**/styles.css
+
+# ---- 무시할 항목 (기기별/휘발성/민감정보) ----
+.obsidian/workspace*.json
+.obsidian/graph.json
+.obsidian/plugins/**/cache*.json
+.obsidian/plugins/**/node_modules/**
+.obsidian/plugins/**/data.local.json
+
+# ---- Obsidian 휴지통 ----
+.trash/
