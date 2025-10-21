@@ -56,6 +56,20 @@
         "nextStatusSymbol": " ",
         "availableAsCommand": true,
         "type": "CANCELLED"
+      },
+      {
+        "symbol": "+",
+        "name": "In Review",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "IN_PROGRESS"
+      },
+      {
+        "symbol": "~",
+        "name": "Gone",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": false,
+        "type": "CANCELLED"
       }
     ]
   },
