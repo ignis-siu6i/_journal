@@ -1,4 +1,6 @@
 [
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-day-planner",
+  "dataview"
 ]
