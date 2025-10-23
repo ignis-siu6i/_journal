@@ -1,3 +1,11 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_attachments",
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_things"
 }

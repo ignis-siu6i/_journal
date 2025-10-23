@@ -1,0 +1,20 @@
+{
+  "obsidian-day-planner:clock-in": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-day-planner:clock-out": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}

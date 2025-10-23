@@ -2,5 +2,7 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "obsidian-day-planner",
-  "dataview"
+  "dataview",
+  "obsidian-smart-typography",
+  "obsidian-git"
 ]
