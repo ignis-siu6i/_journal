@@ -1,4 +1,30 @@
 # tasks
+## tasks - must-do today
+``` tasks
+not done
+((due on today) OR (scheduled on today))
+sort by urgency
+sort by due
+sort by scheduled
+sort by description
+```
+## tasks - due soon
+```tasks
+not done
+has due date
+due on or after today
+sort by due
+sort by description
+```
+
+## tasks - scheduled next
+```tasks
+has scheduled date
+scheduled on or after today
+sort by scheduled
+sort by description
+```
+
 ## tasks not done in daily notes
 ```tasks
 not done
