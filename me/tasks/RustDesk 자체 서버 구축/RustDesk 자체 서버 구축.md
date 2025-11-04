@@ -18,9 +18,10 @@
 
 # configurations
 ## ID 서버
-- 
+- 192.168.63.63
 ## 릴레이 서버
-
+- 192.168.63.63
 ## API 서버
 
 ## Key
+udGuwppsFWPn5bt69Z3lQ+gw0IC5+Eis8ufeA6Iqgwc=
