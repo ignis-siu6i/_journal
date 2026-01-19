@@ -7,5 +7,6 @@
   "livePreview": false,
   "showLineNumber": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "_things"
+  "newFileFolderPath": "_things",
+  "readableLineLength": false
 }
