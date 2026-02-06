@@ -30,6 +30,7 @@ sort by description
 not done
 path includes daily/
 group by heading
+group by filename
 sort by due
 sort by priority
 ```
