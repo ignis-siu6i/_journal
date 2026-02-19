@@ -7,8 +7,6 @@
   "obsidian-git",
   "media-extended",
   "calendar",
-  "edge-tts",
-  "sheets",
-  "obsidian-annotator",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "sheets"
 ]
