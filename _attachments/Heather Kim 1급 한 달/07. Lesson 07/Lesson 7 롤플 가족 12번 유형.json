@@ -1,0 +1,31 @@
+{
+  "text": " Question. I'm sorry, but there's a problem that I need you to resolve. On the day of your dinner party, one of your family members becomes ill. Call your friend and leave a message. Explain what has happened and then propose the plan to have dinner together in the near future. Answer. Hi there, Jamie.It's me, Heather. I'm calling about our dinner tonight. I know this is short notice, but I don't think we can make it tonight. My son tested positive for COVID-19 this morning. He's running a high fever and has been coughing a lot. I think it's best for him to rest. So I was hoping we could reschedule our dinner. Would next weekend work for you? Or if you let me know when you are available, we can figure something out. I'll try to be flexible. Okay, give me a call when you get this. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.0,
+      "text": " Question. I'm sorry, but there's a problem that I need you to resolve. On the day of your dinner party, one of your family members becomes ill. Call your friend and leave a message."
+    },
+    {
+      "start": 13.0,
+      "end": 19.0,
+      "text": " Explain what has happened and then propose the plan to have dinner together in the near future."
+    },
+    {
+      "start": 19.0,
+      "end": 27.0,
+      "text": " Answer. Hi there, Jamie.It's me, Heather. I'm calling about our dinner tonight."
+    },
+    {
+      "start": 27.0,
+      "end": 43.0,
+      "text": " I know this is short notice, but I don't think we can make it tonight. My son tested positive for COVID-19 this morning. He's running a high fever and has been coughing a lot. I think it's best for him to rest."
+    },
+    {
+      "start": 43.0,
+      "end": 61.0,
+      "text": " So I was hoping we could reschedule our dinner. Would next weekend work for you? Or if you let me know when you are available, we can figure something out. I'll try to be flexible. Okay, give me a call when you get this. Bye."
+    }
+  ],
+  "language": "en"
+}

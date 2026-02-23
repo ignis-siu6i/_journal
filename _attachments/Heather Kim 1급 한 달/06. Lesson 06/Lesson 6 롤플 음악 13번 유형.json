@@ -1,0 +1,56 @@
+{
+  "text": " Question. That's the end of the situation. Can you tell me about a situation that you had some kind of equipment you broke or that did not work properly? What happened? How did you resolve the problem? Give me from the background to the result in detail. Answer. Yes, I had this kind of experience several years ago. I bought a new smartphone that supported facial recognition, which was quite new and popular at that time. First, everything seemed perfect. I was thrilled to unlock my phone just by looking at it. However, when I actually tried it, the facial recognition feature didn't work as expected. Kept failing or took a long time to unlock. It was pretty frustrating. So I tried to reset the function and try it again, but it was not easy. I had no choice but to bring it to the After Service Center for help, and it turned out that there was a minor issue with the camera sensor. Since then, I always visit the service center right away whenever I have a problem with my phone.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "text": " Question. That's the end of the situation. Can you tell me about a situation that you had some kind of equipment you broke or that did not work properly?"
+    },
+    {
+      "start": 10.0,
+      "end": 18.0,
+      "text": " What happened? How did you resolve the problem? Give me from the background to the result in detail."
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": " Answer. Yes, I had this kind of experience several years ago."
+    },
+    {
+      "start": 22.0,
+      "end": 29.0,
+      "text": " I bought a new smartphone that supported facial recognition, which was quite new and popular at that time."
+    },
+    {
+      "start": 29.0,
+      "end": 35.0,
+      "text": " First, everything seemed perfect. I was thrilled to unlock my phone just by looking at it."
+    },
+    {
+      "start": 35.0,
+      "end": 41.0,
+      "text": " However, when I actually tried it, the facial recognition feature didn't work as expected."
+    },
+    {
+      "start": 41.0,
+      "end": 47.0,
+      "text": " Kept failing or took a long time to unlock. It was pretty frustrating."
+    },
+    {
+      "start": 47.0,
+      "end": 52.0,
+      "text": " So I tried to reset the function and try it again, but it was not easy."
+    },
+    {
+      "start": 52.0,
+      "end": 59.0,
+      "text": " I had no choice but to bring it to the After Service Center for help, and it turned out that there was a minor issue with the camera sensor."
+    },
+    {
+      "start": 59.0,
+      "end": 65.0,
+      "text": " Since then, I always visit the service center right away whenever I have a problem with my phone."
+    }
+  ],
+  "language": "en"
+}

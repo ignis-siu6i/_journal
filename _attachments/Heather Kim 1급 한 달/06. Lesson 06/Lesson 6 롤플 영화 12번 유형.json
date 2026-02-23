@@ -1,0 +1,46 @@
+{
+  "text": " Question. I'm sorry, but there's a problem that I need you to resolve. You and your friend have just arrived at the theater, but you just discovered that you've been sold the wrong tickets. Ask the ticket seller in a booth, explain the situation, and offer two or three alternatives to the problem. Answer. Excuse me, I'm here about my tickets. I'm sorry, but there is something wrong with the tickets. I think I got the wrong tickets. I originally booked for the 7pm movie, but these tickets are for the 9pm show. I made the booking online about three hours ago. So, is there any chance I could get an exchange? Are tickets still available for 7pm? Oh, that's too bad. Or, could I just cancel the tickets and get a refund? I don't think my friend and I can watch the 9pm movie today. We have other plans later. Okay, thank you for your help.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 13.0,
+      "text": " Question. I'm sorry, but there's a problem that I need you to resolve. You and your friend have just arrived at the theater, but you just discovered that you've been sold the wrong tickets."
+    },
+    {
+      "start": 13.0,
+      "end": 20.0,
+      "text": " Ask the ticket seller in a booth, explain the situation, and offer two or three alternatives to the problem."
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": " Answer. Excuse me, I'm here about my tickets."
+    },
+    {
+      "start": 24.0,
+      "end": 31.0,
+      "text": " I'm sorry, but there is something wrong with the tickets. I think I got the wrong tickets."
+    },
+    {
+      "start": 31.0,
+      "end": 40.0,
+      "text": " I originally booked for the 7pm movie, but these tickets are for the 9pm show. I made the booking online about three hours ago."
+    },
+    {
+      "start": 40.0,
+      "end": 50.0,
+      "text": " So, is there any chance I could get an exchange? Are tickets still available for 7pm? Oh, that's too bad."
+    },
+    {
+      "start": 50.0,
+      "end": 59.0,
+      "text": " Or, could I just cancel the tickets and get a refund? I don't think my friend and I can watch the 9pm movie today."
+    },
+    {
+      "start": 59.0,
+      "end": 63.0,
+      "text": " We have other plans later. Okay, thank you for your help."
+    }
+  ],
+  "language": "en"
+}

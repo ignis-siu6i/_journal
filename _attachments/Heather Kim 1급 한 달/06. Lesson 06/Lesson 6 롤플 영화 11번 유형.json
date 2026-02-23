@@ -1,0 +1,51 @@
+{
+  "text": " Question. I'd like to give you a situation and ask you to act it out. You want to take a friend to a movie. Call the movie theater and ask three to four questions to get all the information you need to get tickets. Answer. Hello, is this mega box? I'm calling to ask about buying movie tickets. Well, I'm planning to watch a movie with my friend tomorrow, so I'd like to book two tickets. Possible. I prefer a showtime around 7pm. Okay. What kinds of movie tickets are available for tomorrow? Could you give me any recommendations? I've heard the movie Mission Impossible is really popular. Would you suggest it too? Then what's the price of two tickets for that movie? Are there any special deals or discounts available? It would be nice if I could get a good deal. Thank you for your information. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.8,
+      "text": " Question. I'd like to give you a situation and ask you to act it out. You want to take"
+    },
+    {
+      "start": 7.8,
+      "end": 13.6,
+      "text": " a friend to a movie. Call the movie theater and ask three to four questions to get all"
+    },
+    {
+      "start": 13.6,
+      "end": 21.72,
+      "text": " the information you need to get tickets. Answer. Hello, is this mega box? I'm calling to ask"
+    },
+    {
+      "start": 21.72,
+      "end": 27.44,
+      "text": " about buying movie tickets. Well, I'm planning to watch a movie with my friend tomorrow,"
+    },
+    {
+      "start": 27.44,
+      "end": 35.8,
+      "text": " so I'd like to book two tickets. Possible. I prefer a showtime around 7pm. Okay. What"
+    },
+    {
+      "start": 35.8,
+      "end": 43.120000000000005,
+      "text": " kinds of movie tickets are available for tomorrow? Could you give me any recommendations? I've"
+    },
+    {
+      "start": 43.120000000000005,
+      "end": 50.68000000000001,
+      "text": " heard the movie Mission Impossible is really popular. Would you suggest it too? Then what's"
+    },
+    {
+      "start": 50.68,
+      "end": 56.92,
+      "text": " the price of two tickets for that movie? Are there any special deals or discounts available?"
+    },
+    {
+      "start": 56.92,
+      "end": 63.96,
+      "text": " It would be nice if I could get a good deal. Thank you for your information. Bye."
+    }
+  ],
+  "language": "en"
+}
