@@ -1,0 +1,66 @@
+{
+  "text": " Question. What do you usually do when you make an appointment with your doctor, dentist, or hair designer? Tell me about the process from beginning to end. Answer. When I make an appointment with my doctor, dentist, or hair designer, the process is pretty simple. First, I figure out when I'm free and think about the best time for the appointment. I prefer to schedule an appointment on weekdays because I don't like feeling rushed on weekends. Then I either call the office or use their online booking system. I especially like online booking because it's simple and fast. Also, I can reschedule or confirm it easily. If I call, I just tell them what I need for the appointment like a checkup or a haircut. They usually confirm the date and time directly and sometimes send me a reminder by text or email, which is really helpful. On the day of the appointment, I try to arrive a little early to settle in. There are not many people scheduled. I can start my appointment a bit earlier. So these are the things I usually do when I make appointments.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.6000000000000005,
+      "text": " Question. What do you usually do when you make an appointment with your doctor, dentist,"
+    },
+    {
+      "start": 7.6000000000000005,
+      "end": 15.200000000000001,
+      "text": " or hair designer? Tell me about the process from beginning to end. Answer. When I make"
+    },
+    {
+      "start": 15.200000000000001,
+      "end": 20.400000000000002,
+      "text": " an appointment with my doctor, dentist, or hair designer, the process is pretty simple."
+    },
+    {
+      "start": 20.400000000000002,
+      "end": 26.6,
+      "text": " First, I figure out when I'm free and think about the best time for the appointment. I"
+    },
+    {
+      "start": 26.6,
+      "end": 31.400000000000002,
+      "text": " prefer to schedule an appointment on weekdays because I don't like feeling rushed on weekends."
+    },
+    {
+      "start": 31.400000000000002,
+      "end": 38.68,
+      "text": " Then I either call the office or use their online booking system. I especially like online"
+    },
+    {
+      "start": 38.68,
+      "end": 45.88,
+      "text": " booking because it's simple and fast. Also, I can reschedule or confirm it easily. If I call,"
+    },
+    {
+      "start": 45.88,
+      "end": 51.92,
+      "text": " I just tell them what I need for the appointment like a checkup or a haircut. They usually confirm"
+    },
+    {
+      "start": 51.92,
+      "end": 56.96,
+      "text": " the date and time directly and sometimes send me a reminder by text or email, which is really"
+    },
+    {
+      "start": 56.96,
+      "end": 63.84,
+      "text": " helpful. On the day of the appointment, I try to arrive a little early to settle in. There are"
+    },
+    {
+      "start": 63.84,
+      "end": 70.52000000000001,
+      "text": " not many people scheduled. I can start my appointment a bit earlier. So these are the things I usually"
+    },
+    {
+      "start": 70.52000000000001,
+      "end": 71.92,
+      "text": " do when I make appointments."
+    }
+  ],
+  "language": "en"
+}

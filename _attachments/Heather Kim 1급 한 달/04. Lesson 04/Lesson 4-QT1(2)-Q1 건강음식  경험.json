@@ -1,0 +1,46 @@
+{
+  "text": " Question. Now tell me about the last time you actually ate some healthy food. Where did you eat it and who did you eat it with? How did it taste and what good did it do for you? Give me all the details. Answer. The last time I had a healthy meal was last month. My son had an upset stomach that day so he didn't want to eat anything too greasy or heavy. My family decided to order something light and healthy for him instead of cooking. We ordered vegetable porridge from a Korean porridge chain. It's a healthy dish made with rice, carrots, zucchini and mushrooms and it's easy to digest. Something people often eat when they're not feel well. Separate tasted really clean and mild. Didn't have strong spices but it was warm and comforting. The rice was cooked just right. After the meal we felt much more relaxed and less bloated. My son also enjoyed it and we all agreed it was the right choice for that day. It was a simple meal but it made us all feel warm and healthy.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "text": " Question. Now tell me about the last time you actually ate some healthy food. Where did you eat it and who did you eat it with?"
+    },
+    {
+      "start": 11.0,
+      "end": 22.0,
+      "text": " How did it taste and what good did it do for you? Give me all the details. Answer. The last time I had a healthy meal was last month."
+    },
+    {
+      "start": 22.0,
+      "end": 34.0,
+      "text": " My son had an upset stomach that day so he didn't want to eat anything too greasy or heavy. My family decided to order something light and healthy for him instead of cooking."
+    },
+    {
+      "start": 34.0,
+      "end": 44.0,
+      "text": " We ordered vegetable porridge from a Korean porridge chain. It's a healthy dish made with rice, carrots, zucchini and mushrooms and it's easy to digest."
+    },
+    {
+      "start": 44.0,
+      "end": 48.0,
+      "text": " Something people often eat when they're not feel well."
+    },
+    {
+      "start": 48.0,
+      "end": 59.0,
+      "text": " Separate tasted really clean and mild. Didn't have strong spices but it was warm and comforting. The rice was cooked just right."
+    },
+    {
+      "start": 59.0,
+      "end": 69.0,
+      "text": " After the meal we felt much more relaxed and less bloated. My son also enjoyed it and we all agreed it was the right choice for that day."
+    },
+    {
+      "start": 69.0,
+      "end": 74.0,
+      "text": " It was a simple meal but it made us all feel warm and healthy."
+    }
+  ],
+  "language": "en"
+}

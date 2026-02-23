@@ -1,0 +1,61 @@
+{
+  "text": " Question. Tell me about some of the trips you took in your youth. Where did you go? Who did you go with and what did you see or do during those early trips? Answer. I remember going hiking with my family quite often when I was a kid. My father often suggested hiking trips on weekends and my sister and I always got excited. We used to go to Seoraxin Mountain, one of the most famous mountains in Korea. During the day we would hike along the trails enjoying the fresh air and beautiful nature. The mountain was covered with tall trees and I could hear birds singing. The paths were sometimes steep but the views from the top were amazing and worth the effort. After hiking we often stopped at a small restaurant near the entrance to eat hot and delicious chicken soup. The food always tasted even better after a long hike. Looking back those hiking trips were definitely highlights of my childhood.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.640000000000001,
+      "text": " Question. Tell me about some of the trips you took in your youth. Where did you go?"
+    },
+    {
+      "start": 7.640000000000001,
+      "end": 12.56,
+      "text": " Who did you go with and what did you see or do during those early trips?"
+    },
+    {
+      "start": 12.56,
+      "end": 19.12,
+      "text": " Answer. I remember going hiking with my family quite often when I was a kid."
+    },
+    {
+      "start": 19.12,
+      "end": 25.560000000000002,
+      "text": " My father often suggested hiking trips on weekends and my sister and I always got excited."
+    },
+    {
+      "start": 25.88,
+      "end": 30.799999999999997,
+      "text": " We used to go to Seoraxin Mountain, one of the most famous mountains in Korea."
+    },
+    {
+      "start": 30.799999999999997,
+      "end": 36.76,
+      "text": " During the day we would hike along the trails enjoying the fresh air and beautiful nature."
+    },
+    {
+      "start": 36.76,
+      "end": 41.599999999999994,
+      "text": " The mountain was covered with tall trees and I could hear birds singing."
+    },
+    {
+      "start": 41.599999999999994,
+      "end": 47.64,
+      "text": " The paths were sometimes steep but the views from the top were amazing and worth the effort."
+    },
+    {
+      "start": 47.64,
+      "end": 54.44,
+      "text": " After hiking we often stopped at a small restaurant near the entrance to eat hot and delicious chicken soup."
+    },
+    {
+      "start": 55.16,
+      "end": 58.8,
+      "text": " The food always tasted even better after a long hike."
+    },
+    {
+      "start": 58.8,
+      "end": 64.32,
+      "text": " Looking back those hiking trips were definitely highlights of my childhood."
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,51 @@
+{
+  "text": " Question. Tell me about a beautiful or memorable beach you've been to. What was the beach like? Tell me about your observation or impression of the beach in detail. Answer. Let me tell you about my visit to Deechin Beach with my family last summer. It was located in a city called Boryong. Upon arriving, the first thing I noticed was how wide and open the beach felt. The beach stretched far in both directions and the view was just stunning. Oh, it seemed endless. The place was pretty lively with lots of people walking around or just relaxing. Everyone seemed to be enjoying the moment. They looked so relaxed and happy. The thing that really got my attention was the sunset over the horizon. The sky changed colors beautifully as the sun went down. It looked like a painting and it was almost unreal. All in all, it was a wonderful place to visit. If I get the chance, I'd love to go back someday.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": " Question. Tell me about a beautiful or memorable beach you've been to. What was the beach like?"
+    },
+    {
+      "start": 9.0,
+      "end": 14.0,
+      "text": " Tell me about your observation or impression of the beach in detail."
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "text": " Answer. Let me tell you about my visit to Deechin Beach with my family last summer."
+    },
+    {
+      "start": 21.0,
+      "end": 29.0,
+      "text": " It was located in a city called Boryong. Upon arriving, the first thing I noticed was how wide and open the beach felt."
+    },
+    {
+      "start": 29.0,
+      "end": 37.0,
+      "text": " The beach stretched far in both directions and the view was just stunning. Oh, it seemed endless."
+    },
+    {
+      "start": 37.0,
+      "end": 46.0,
+      "text": " The place was pretty lively with lots of people walking around or just relaxing. Everyone seemed to be enjoying the moment."
+    },
+    {
+      "start": 46.0,
+      "end": 54.0,
+      "text": " They looked so relaxed and happy. The thing that really got my attention was the sunset over the horizon."
+    },
+    {
+      "start": 54.0,
+      "end": 62.0,
+      "text": " The sky changed colors beautifully as the sun went down. It looked like a painting and it was almost unreal."
+    },
+    {
+      "start": 62.0,
+      "end": 70.0,
+      "text": " All in all, it was a wonderful place to visit. If I get the chance, I'd love to go back someday."
+    }
+  ],
+  "language": "en"
+}

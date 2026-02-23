@@ -1,0 +1,76 @@
+{
+  "text": " Question, you indicated in the survey that you like to go to a park. Tell me about one of your favorite parks. What does it look like? Why do you often go there rather than to other parks? Answer, the park I often go to is Central Park, which is located in a city called Suwon. I can say it is one of the biggest parks in the city, so even when it's busy, it doesn't feel crowded because there's so much space to move around. I like to go there because of the warm vibe at the place. People I see there are mostly kind and welcoming, so it's very enjoyable to spend time there. What's more, everything there is well organized. The facilities are clean and well maintained, so I can definitely feel comfortable and safe. You can also find good exercise machines, nice walking trails and cozy cafes in the park, which are convenient to use. All in all, it is a great place to visit.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": " Question, you indicated in the survey that you like to go to a park."
+    },
+    {
+      "start": 6.4,
+      "end": 8.88,
+      "text": " Tell me about one of your favorite parks."
+    },
+    {
+      "start": 8.88,
+      "end": 10.120000000000001,
+      "text": " What does it look like?"
+    },
+    {
+      "start": 10.120000000000001,
+      "end": 13.32,
+      "text": " Why do you often go there rather than to other parks?"
+    },
+    {
+      "start": 13.32,
+      "end": 19.76,
+      "text": " Answer, the park I often go to is Central Park, which is located in a city called Suwon."
+    },
+    {
+      "start": 19.76,
+      "end": 24.36,
+      "text": " I can say it is one of the biggest parks in the city, so even when it's busy, it doesn't"
+    },
+    {
+      "start": 24.36,
+      "end": 27.52,
+      "text": " feel crowded because there's so much space to move around."
+    },
+    {
+      "start": 27.52,
+      "end": 31.16,
+      "text": " I like to go there because of the warm vibe at the place."
+    },
+    {
+      "start": 31.16,
+      "end": 37.2,
+      "text": " People I see there are mostly kind and welcoming, so it's very enjoyable to spend time there."
+    },
+    {
+      "start": 37.2,
+      "end": 40.44,
+      "text": " What's more, everything there is well organized."
+    },
+    {
+      "start": 40.44,
+      "end": 46.44,
+      "text": " The facilities are clean and well maintained, so I can definitely feel comfortable and safe."
+    },
+    {
+      "start": 46.44,
+      "end": 51.92,
+      "text": " You can also find good exercise machines, nice walking trails and cozy cafes in the park,"
+    },
+    {
+      "start": 51.92,
+      "end": 53.96,
+      "text": " which are convenient to use."
+    },
+    {
+      "start": 53.96,
+      "end": 56.68,
+      "text": " All in all, it is a great place to visit."
+    }
+  ],
+  "language": "en"
+}
