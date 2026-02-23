@@ -1,4 +1,5 @@
 # Lesson 01
+![[Pasted image 20260223201624.png]]
 ```audio-note
 audio: _attachments/Heather Kim 1급 한 달/01. Lesson 01/Lesson 1-QT1-Q1 호텔.m4a
 title: Lesson 1 QT1 Q1 호텔
@@ -7,6 +8,7 @@ transcript: _attachments/Heather Kim 1급 한 달/01. Lesson 01/Lesson 1-QT1-Q1 
 Question. Tell me about hotels in your country. What do the hotels look like? Describe them for me in detail. Answer. Most hotels in Korea are easy to access and usually located in convenient places like subway stations or shopping areas. When you picture a typical hotel, the first thing that comes to mind is its stylish, modern look. There's always a big sign in both Korean and English and many of them have automatic doors and elevators. Parking isn't always big, but there's usually a space underground or nearby. Once you step inside, everything feels clean and well organized. There's usually a reception desk or service counter and the staff are welcoming and professional. Many places also offer self-service machines or digital systems so you don't have to wait long. Plus, there is free wifi, comfortable seating and even background music in some places, which makes the atmosphere relaxing and pleasant. So overall, I think hotels in Korea are convenient, efficient and easy to use even if it's your first time visiting.
 ```
 
+![[Pasted image 20260223201638.png]]
 ```audio-note
 audio: _attachments/Heather Kim 1급 한 달/01. Lesson 01/Lesson 1-QT2-Q1 좋아하는 공원.m4a
 title: Lesson 1 QT2 Q1 좋아하는 공원
@@ -15,6 +17,7 @@ transcript: _attachments/Heather Kim 1급 한 달/01. Lesson 01/Lesson 1-QT2-Q1 
 Question, you indicated in the survey that you like to go to a park. Tell me about one of your favorite parks. What does it look like? Why do you often go there rather than to other parks? Answer, the park I often go to is Central Park, which is located in a city called Suwon. I can say it is one of the biggest parks in the city, so even when it's busy, it doesn't feel crowded because there's so much space to move around. I like to go there because of the warm vibe at the place. People I see there are mostly kind and welcoming, so it's very enjoyable to spend time there. What's more, everything there is well organized. The facilities are clean and well maintained, so I can definitely feel comfortable and safe. You can also find good exercise machines, nice walking trails and cozy cafes in the park, which are convenient to use. All in all, it is a great place to visit.
 ```
 
+![[Pasted image 20260223201646.png]]
 ```audio-note
 audio: _attachments/Heather Kim 1급 한 달/01. Lesson 01/Lesson 1-QT3-Q1 해외여행 국가.m4a
 title: Lesson 1 QT3 Q1 해외여행 국가
@@ -23,6 +26,7 @@ transcript: _attachments/Heather Kim 1급 한 달/01. Lesson 01/Lesson 1-QT3-Q1 
 Question. You indicated in the survey that you take vacations internationally. Could you describe for me one of the countries you have visited? What does it look like and what are the people like there? Answer. Well, I'd like to talk about China that I've been to. It's one of our neighboring countries and it takes only two hours to get there by flight. First, China is known for its natural beauty. It has many famous mountain ranges like Himalayas where people can enjoy the beautiful scenery at any time. Also, China is a vast country with long coastlines so it offers stunning beaches and great ocean views. Exploring such natural sites is always enjoyable and refreshing. Meanwhile, China is also famous for its dynamic cities like Beijing and Shanghai. People can experience advanced technology, skyscrapers, vibrant nightlife, and unique culture in these cities. Visiting such metropolitan areas gives them a fun and lively travel experience. Like this, China is a country with natural and cultural diversity.
 ```
 
+![[Pasted image 20260223201654.png]]
 ```audio-note
 audio: _attachments/Heather Kim 1급 한 달/01. Lesson 01/Lesson 1-QT4-Q1 건강한 사람.m4a
 title: Lesson 1 QT4 Q1 건강한 사람람
