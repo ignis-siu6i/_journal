@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>Lesson 7 롤플 가족 11번 유형</title>
+<style>
+  body { font-family: sans-serif; margin: 12px; }
+  .segment { padding: 6px; cursor: pointer; }
+  .active { background: #fff7c2; }
+  .transcript { height: 350px; overflow-y: auto; border:1px solid #eee; }
+</style>
+</head>
+<body>
+
+<audio id="player" controls style="width:100%;">
+  <source src="Lesson 7 롤플 가족 13번 유형.m4a">
+</audio>
+
+<div class="transcript" id="transcript"></div>
+
+<script>
+const segments = [{"start": 0.0, "end": 8.08, "text": " Question. I'd like to give you a situation and ask you to act it out. You want to invite"}, {"start": 8.08, "end": 13.76, "text": " another couple to your home for dinner. Ask your family member three or four questions"}, {"start": 13.76, "end": 18.900000000000002, "text": " to find out when the best day and time is to have your friends come for dinner."}, {"start": 18.900000000000002, "end": 19.900000000000002, "text": " Answer."}, {"start": 19.900000000000002, "end": 26.0, "text": " Honey, do you remember Jamie? If you are okay with it, I was thinking of inviting her couple"}, {"start": 26.0, "end": 33.56, "text": " over for dinner. What do you think? Great. So what day works best for you? I heard they're"}, {"start": 33.56, "end": 41.68, "text": " free this Sunday. Would that work for you too? Then what time do you think is good? Is seven"}, {"start": 41.68, "end": 49.84, "text": " is okay? I think it's a nice time. Not too early, not too late. And oh yeah, what should"}, {"start": 49.84, "end": 55.16, "text": " we prepare for dinner? If we can't decide right now, I can just ask them what kind of"}, {"start": 55.16, "end": 58.63999999999999, "text": " food they like. Alright, that's all set."}];
+const player = document.getElementById('player');
+const container = document.getElementById('transcript');
+
+function render() {
+    segments.forEach(s => {
+        const div = document.createElement('div');
+        div.className = 'segment';
+        div.dataset.start = s.start;
+        div.dataset.end = s.end;
+        div.textContent = '[' + s.start.toFixed(2) + '] ' + s.text;
+        div.onclick = () => {
+            player.currentTime = s.start;
+            player.play();
+        };
+        container.appendChild(div);
+    });
+}
+
+function highlight() {
+    const t = player.currentTime;
+    document.querySelectorAll('.segment').forEach(el => {
+        const start = parseFloat(el.dataset.start);
+        const end = parseFloat(el.dataset.end);
+        el.classList.toggle('active', t >= start && t < end);
+    });
+}
+
+player.addEventListener('timeupdate', highlight);
+
+render();
+</script>
+
+</body>
+</html>

@@ -7,7 +7,7 @@
   "_debugMode": false,
   "_DGApiKey": "60e76202d88eb7479f4b21f88a9ee97c3f863305",
   "_DGTranscriptFolder": "transcripts/",
-  "counts": 4,
+  "counts": 6,
   "positions": {
     "app://f3eaae8c522f61323f3912e02271715370bf/D:/_github/_journal/_attachments/Heather%20Kim%201%EA%B8%89%20%ED%95%9C%20%EB%8B%AC/01.%20Lesson%2001/Lesson%201-QT2-Q1%20%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94%20%EA%B3%B5%EC%9B%90.mp3#t=00:00": [
       56.808,
@@ -24,6 +24,11 @@
     "app://f3eaae8c522f61323f3912e02271715370bf/D:/_github/_journal/_attachments/Heather%20Kim%201%EA%B8%89%20%ED%95%9C%20%EB%8B%AC/01.%20Lesson%2001/Lesson%201-QT1-Q1%20%ED%98%B8%ED%85%94.m4a#t=00:00": [
       34.930402,
       1771807922566
+    ],
+    "app://f3eaae8c522f61323f3912e02271715370bf/D:/_github/_journal/_attachments/Heather%20Kim%201%EA%B8%89%20%ED%95%9C%20%EB%8B%AC/06.%20Lesson%2006/Lesson%206%20%EB%A1%A4%ED%94%8C%20%EC%98%81%ED%99%94%2013%EB%B2%88%20%EC%9C%A0%ED%98%95.m4a#t=00:00": [
+      5.496919,
+      1771926402431
     ]
-  }
+  },
+  "uuid": "5a20-10c6-eae7-1c41"
 }

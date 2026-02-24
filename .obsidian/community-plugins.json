@@ -9,5 +9,7 @@
   "calendar",
   "obsidian-excalidraw-plugin",
   "sheets",
-  "obsidian-audio-notes"
+  "obsidian-audio-notes",
+  "obsidian-html-plugin",
+  "obsidian-custom-frames"
 ]
