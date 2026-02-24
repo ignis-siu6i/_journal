@@ -1,0 +1,56 @@
+{
+  "text": " Question. I'm sorry, but there's a problem that I need you to resolve. You borrowed your friend's MP3 player, but you broke it. Call your friend and explain the situation how it broke and the current condition of the MP3 player. And then offer two or three options to get your friend a working MP3 player. Answer. Hello Jake, it's me, Heather, that I'm calling about your MP3 player that I borrowed last week. I'm sorry, but I think I broke it. I dropped it by mistake when I was using it. Flipped out of my hands and hit the ground pretty hard. Now it's not working properly. The screen is cracked and it won't turn on at all. So I'm wondering if I can get it fixed at the service center. If it can be fixed, I'll take care of it right away. Oh, okay. Or here's another option. Why don't I buy you a new one? Do you want the same model? Thank you for your understanding. I'm so sorry again.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.68,
+      "text": " Question. I'm sorry, but there's a problem that I need you to resolve. You borrowed"
+    },
+    {
+      "start": 7.68,
+      "end": 13.64,
+      "text": " your friend's MP3 player, but you broke it. Call your friend and explain the situation"
+    },
+    {
+      "start": 13.64,
+      "end": 19.44,
+      "text": " how it broke and the current condition of the MP3 player. And then offer two or three"
+    },
+    {
+      "start": 19.44,
+      "end": 26.44,
+      "text": " options to get your friend a working MP3 player. Answer. Hello Jake, it's me, Heather,"
+    },
+    {
+      "start": 26.44,
+      "end": 32.32,
+      "text": " that I'm calling about your MP3 player that I borrowed last week. I'm sorry, but I think"
+    },
+    {
+      "start": 32.32,
+      "end": 39.08,
+      "text": " I broke it. I dropped it by mistake when I was using it. Flipped out of my hands and"
+    },
+    {
+      "start": 39.08,
+      "end": 46.56,
+      "text": " hit the ground pretty hard. Now it's not working properly. The screen is cracked and it won't"
+    },
+    {
+      "start": 46.56,
+      "end": 53.040000000000006,
+      "text": " turn on at all. So I'm wondering if I can get it fixed at the service center. If it"
+    },
+    {
+      "start": 53.04,
+      "end": 61.64,
+      "text": " can be fixed, I'll take care of it right away. Oh, okay. Or here's another option. Why don't"
+    },
+    {
+      "start": 61.64,
+      "end": 70.16,
+      "text": " I buy you a new one? Do you want the same model? Thank you for your understanding. I'm so sorry again."
+    }
+  ],
+  "language": "en"
+}

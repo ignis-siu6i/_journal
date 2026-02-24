@@ -1,0 +1,26 @@
+{
+  "text": " Question, that's the end of the situation. Has anything like that ever happened to you? Have you ever had to change your plans because one of your family members needed your help? Tell me about that episode in detail why you had to change your plans and what happened.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Question, that's the end of the situation."
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": " Has anything like that ever happened to you?"
+    },
+    {
+      "start": 7.0,
+      "end": 12.0,
+      "text": " Have you ever had to change your plans because one of your family members needed your help?"
+    },
+    {
+      "start": 12.0,
+      "end": 18.0,
+      "text": " Tell me about that episode in detail why you had to change your plans and what happened."
+    }
+  ],
+  "language": "en"
+}

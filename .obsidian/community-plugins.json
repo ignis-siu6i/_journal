@@ -8,5 +8,8 @@
   "media-extended",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "sheets"
+  "sheets",
+  "obsidian-audio-notes",
+  "obsidian-html-plugin",
+  "obsidian-custom-frames"
 ]

@@ -1,0 +1,36 @@
+{
+  "text": " Question. Tell me the last time you went to a movie. What movie did you see? Who did you see the movie with? What did you do before and after the movie? Answer. The last time I went to the movies was a month ago. It was during the weekend and my family wanted to do something fun for our free time, so we decided to watch a movie called My Daughter is a Zombie. We went to CGV Movie Complex in town and there were only a few people around even though it was a weekend. It felt quiet and peaceful. As soon as we arrived, the first thing we did was buy popcorn and soft drinks. My son was especially excited to try the new chocolate flavored popcorn. Then we watched the movie which lasted for about two hours. Oh, the movie was mind blowing. The most striking part was the emotional storyline even though it was just a zombie movie. After the movie, we went to a nearby restaurant and talked about it over dinner. We shared our thoughts on how great the story was. Overall, it was such an enjoyable day.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 16.0,
+      "text": " Question. Tell me the last time you went to a movie. What movie did you see? Who did you see the movie with? What did you do before and after the movie? Answer."
+    },
+    {
+      "start": 16.0,
+      "end": 29.0,
+      "text": " The last time I went to the movies was a month ago. It was during the weekend and my family wanted to do something fun for our free time, so we decided to watch a movie called My Daughter is a Zombie."
+    },
+    {
+      "start": 29.0,
+      "end": 39.0,
+      "text": " We went to CGV Movie Complex in town and there were only a few people around even though it was a weekend. It felt quiet and peaceful."
+    },
+    {
+      "start": 39.0,
+      "end": 50.0,
+      "text": " As soon as we arrived, the first thing we did was buy popcorn and soft drinks. My son was especially excited to try the new chocolate flavored popcorn."
+    },
+    {
+      "start": 50.0,
+      "end": 64.0,
+      "text": " Then we watched the movie which lasted for about two hours. Oh, the movie was mind blowing. The most striking part was the emotional storyline even though it was just a zombie movie."
+    },
+    {
+      "start": 64.0,
+      "end": 77.0,
+      "text": " After the movie, we went to a nearby restaurant and talked about it over dinner. We shared our thoughts on how great the story was. Overall, it was such an enjoyable day."
+    }
+  ],
+  "language": "en"
+}

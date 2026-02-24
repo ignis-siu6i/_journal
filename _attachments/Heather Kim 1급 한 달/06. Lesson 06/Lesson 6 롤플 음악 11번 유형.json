@@ -1,0 +1,41 @@
+{
+  "text": " Question. I'd like to give you a situation and ask you to act it out. You want to buy a new MP3 player and you have a friend who knows MP3 players very well. Call your friend and ask three or four questions to get all the information about buying an MP3 player. Answer. Hello Jake, this is Heather and I'm calling to ask about buying an MP3 player. I want to get a new one because my current one is not working. I've heard you know pretty much about MP3 players, right? Yeah, that's why I'm calling you. Do you know what kinds of MP3 players are available these days? Could you give me any recommendations? I've heard Samsung M2 is really popular. Would you suggest it too? Then what's the price of that model? Are there any special deals or discounts we could use? It would be nice if I could get a good deal. Thank you for your information. Bye.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.0,
+      "text": " Question. I'd like to give you a situation and ask you to act it out. You want to buy a new MP3 player and you have a friend who knows MP3 players very well."
+    },
+    {
+      "start": 12.0,
+      "end": 19.0,
+      "text": " Call your friend and ask three or four questions to get all the information about buying an MP3 player."
+    },
+    {
+      "start": 19.0,
+      "end": 26.0,
+      "text": " Answer. Hello Jake, this is Heather and I'm calling to ask about buying an MP3 player."
+    },
+    {
+      "start": 26.0,
+      "end": 37.0,
+      "text": " I want to get a new one because my current one is not working. I've heard you know pretty much about MP3 players, right? Yeah, that's why I'm calling you."
+    },
+    {
+      "start": 37.0,
+      "end": 45.0,
+      "text": " Do you know what kinds of MP3 players are available these days? Could you give me any recommendations?"
+    },
+    {
+      "start": 45.0,
+      "end": 51.0,
+      "text": " I've heard Samsung M2 is really popular. Would you suggest it too?"
+    },
+    {
+      "start": 51.0,
+      "end": 65.0,
+      "text": " Then what's the price of that model? Are there any special deals or discounts we could use? It would be nice if I could get a good deal. Thank you for your information. Bye."
+    }
+  ],
+  "language": "en"
+}

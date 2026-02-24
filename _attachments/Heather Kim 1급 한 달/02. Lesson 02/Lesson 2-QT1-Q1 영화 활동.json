@@ -1,0 +1,61 @@
+{
+  "text": " Question, what do you normally do before you go to the movies? What do you do after watching the movie? Answer, I usually make plans with my family to catch a movie together at least once a month. Before watching a movie, we arrange the details, like when and where to go and which movie to watch. If needed, we also book our tickets in advance to avoid any hassle. Well, once we get to the theater, we grab some snacks like popcorn and drinks. After that, we head to the restroom to make sure we're all set to enjoy the movie without interruptions. And then, we enjoy the movie, which typically lasts around two hours. After the movie, we often go for dinner and chat about it. We love discussing the storyline, characters, memorable scenes, and so on. Sometimes, if we feel too tired, we just head straight home instead.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": " Question, what do you normally do before you go to the movies?"
+    },
+    {
+      "start": 4.0,
+      "end": 7.0,
+      "text": " What do you do after watching the movie?"
+    },
+    {
+      "start": 7.0,
+      "end": 13.0,
+      "text": " Answer, I usually make plans with my family to catch a movie together at least once a month."
+    },
+    {
+      "start": 13.0,
+      "end": 20.0,
+      "text": " Before watching a movie, we arrange the details, like when and where to go and which movie to watch."
+    },
+    {
+      "start": 20.0,
+      "end": 24.0,
+      "text": " If needed, we also book our tickets in advance to avoid any hassle."
+    },
+    {
+      "start": 24.0,
+      "end": 29.0,
+      "text": " Well, once we get to the theater, we grab some snacks like popcorn and drinks."
+    },
+    {
+      "start": 29.0,
+      "end": 35.0,
+      "text": " After that, we head to the restroom to make sure we're all set to enjoy the movie without interruptions."
+    },
+    {
+      "start": 35.0,
+      "end": 40.0,
+      "text": " And then, we enjoy the movie, which typically lasts around two hours."
+    },
+    {
+      "start": 40.0,
+      "end": 44.0,
+      "text": " After the movie, we often go for dinner and chat about it."
+    },
+    {
+      "start": 44.0,
+      "end": 49.0,
+      "text": " We love discussing the storyline, characters, memorable scenes, and so on."
+    },
+    {
+      "start": 49.0,
+      "end": 54.0,
+      "text": " Sometimes, if we feel too tired, we just head straight home instead."
+    }
+  ],
+  "language": "en"
+}

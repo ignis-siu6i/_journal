@@ -1,0 +1,61 @@
+{
+  "text": " Question. That's the end of the situation. Has anything like that ever happened to you? Have you ever booked the wrong tickets or made the wrong reservation? And then something went wrong? What happened? Tell me about it from beginning to end and how you resolved it. Answer. Yes. I had this kind of incident about 10 years ago. My wife and I wanted to go to the movies so we booked tickets online in advance. Everything seemed great at first. We were very excited about the movie since it was top ranked at the time. However, when we arrived at the theater, we found out that there was a problem with the tickets. The date on the tickets was wrong. Turns out it was my mistake. I had booked them for the wrong date. So we tried to change the tickets, but all the seats that day were fully booked. We couldn't watch the movie in the end and it was pretty disappointing. Since then, I always double check when I book tickets.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "text": " Question. That's the end of the situation. Has anything like that ever happened to you?"
+    },
+    {
+      "start": 9.0,
+      "end": 13.8,
+      "text": " Have you ever booked the wrong tickets or made the wrong reservation? And then something"
+    },
+    {
+      "start": 13.8,
+      "end": 19.0,
+      "text": " went wrong? What happened? Tell me about it from beginning to end and how you resolved"
+    },
+    {
+      "start": 19.0,
+      "end": 24.560000000000002,
+      "text": " it. Answer. Yes. I had this kind of incident about 10 years ago. My wife and I wanted to"
+    },
+    {
+      "start": 24.560000000000002,
+      "end": 29.68,
+      "text": " go to the movies so we booked tickets online in advance. Everything seemed great at first."
+    },
+    {
+      "start": 29.68,
+      "end": 34.4,
+      "text": " We were very excited about the movie since it was top ranked at the time. However, when"
+    },
+    {
+      "start": 34.4,
+      "end": 39.44,
+      "text": " we arrived at the theater, we found out that there was a problem with the tickets. The"
+    },
+    {
+      "start": 39.44,
+      "end": 44.72,
+      "text": " date on the tickets was wrong. Turns out it was my mistake. I had booked them for the"
+    },
+    {
+      "start": 44.72,
+      "end": 51.6,
+      "text": " wrong date. So we tried to change the tickets, but all the seats that day were fully booked."
+    },
+    {
+      "start": 51.6,
+      "end": 56.760000000000005,
+      "text": " We couldn't watch the movie in the end and it was pretty disappointing. Since then, I"
+    },
+    {
+      "start": 56.76,
+      "end": 58.76,
+      "text": " always double check when I book tickets."
+    }
+  ],
+  "language": "en"
+}
