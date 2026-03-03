@@ -1,0 +1,9 @@
+{
+  "id": "youtube-timestamp-jump",
+  "name": "YouTube Timestamp Jump",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Click timestamps like (0:37) or (1:08:52) to seek the first YouTube iframe in the note to that time.",
+  "author": "Local",
+  "isDesktopOnly": false
+}
