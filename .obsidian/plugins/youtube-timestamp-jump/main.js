@@ -13,6 +13,7 @@ function setIframeStartTime(iframe, seconds) {
   if (!src.includes("youtube.com/embed")) return;
   const url = new URL(src);
   url.searchParams.set("start", String(seconds));
+  url.searchParams.set("autoplay", "1");
   iframe.setAttribute("src", url.toString());
 }
 
