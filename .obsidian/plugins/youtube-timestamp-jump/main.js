@@ -47,6 +47,7 @@ function processElement(el) {
   let n;
   while ((n = walker.nextNode())) textNodes.push(n);
   textNodes.forEach((textNode) => {
+    TIMESTAMP_REGEX.lastIndex = 0;
     const text = textNode.textContent;
     if (!TIMESTAMP_REGEX.test(text)) return;
     TIMESTAMP_REGEX.lastIndex = 0;
