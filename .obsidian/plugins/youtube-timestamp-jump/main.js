@@ -17,12 +17,23 @@ function setIframeStartTime(iframe, seconds) {
   iframe.setAttribute("src", url.toString());
 }
 
-function findFirstYoutubeIframe(container) {
-  const view =
-    container.closest(".markdown-preview-view") ||
-    container.closest(".cm-s-obsidian");
-  if (!view) return null;
-  return view.querySelector('iframe[src*="youtube.com/embed"]');
+function findFirstYoutubeIframe(clickedElement, app) {
+  if (!app || !app.workspace) {
+    const view =
+      clickedElement.closest(".markdown-preview-view") ||
+      clickedElement.closest(".cm-s-obsidian");
+    return view ? view.querySelector('iframe[src*="youtube.com/embed"]') : null;
+  }
+  let found = null;
+  app.workspace.iterateAllLeaves((leaf) => {
+    if (found) return;
+    const container = leaf.view?.containerEl;
+    if (container && container.contains(clickedElement)) {
+      const iframe = container.querySelector('iframe[src*="youtube.com/embed"]');
+      if (iframe) found = iframe;
+    }
+  });
+  return found;
 }
 
 function processElement(el) {
@@ -70,12 +81,12 @@ function processElement(el) {
   });
 }
 
-function handleClick(ev) {
+function handleClick(ev, app) {
   const span = ev.target.closest(".yt-timestamp-jump");
   if (!span) return;
   const seconds = parseInt(span.getAttribute("data-seconds"), 10);
   if (Number.isNaN(seconds)) return;
-  const iframe = findFirstYoutubeIframe(span);
+  const iframe = findFirstYoutubeIframe(span, app);
   if (iframe) {
     ev.preventDefault();
     setIframeStartTime(iframe, seconds);
@@ -84,7 +95,11 @@ function handleClick(ev) {
 
 module.exports = class YoutubeTimestampJumpPlugin extends obsidian.Plugin {
   onload() {
-    this.registerDomEvent(document.body, "click", handleClick);
+    this.registerDomEvent(
+      document.body,
+      "click",
+      (ev) => handleClick(ev, this.app)
+    );
     this.registerMarkdownPostProcessor((el) => processElement(el));
   }
 };
