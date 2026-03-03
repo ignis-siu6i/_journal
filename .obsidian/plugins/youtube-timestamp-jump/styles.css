@@ -1,0 +1,12 @@
+/* YouTube Timestamp Jump – clickable timestamps */
+.markdown-preview-view .yt-timestamp-jump,
+.cm-s-obsidian .yt-timestamp-jump {
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  color: var(--link-color, #705dc2);
+}
+.markdown-preview-view .yt-timestamp-jump:hover,
+.cm-s-obsidian .yt-timestamp-jump:hover {
+  color: var(--link-color-hover, #8875d4);
+}

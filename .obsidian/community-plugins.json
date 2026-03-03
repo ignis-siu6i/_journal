@@ -11,5 +11,7 @@
   "sheets",
   "obsidian-audio-notes",
   "obsidian-html-plugin",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "convert-url-to-iframe",
+  "youtube-timestamp-jump"
 ]
