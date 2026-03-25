@@ -25,7 +25,7 @@
 			- 합습 결과: Dynamic Programming, Backtracking, Branch & Bound, Greedy 개념 학습. 실전 문제 풀이(Traveling Salesman, Knapsack Problem)
 			- 현업 활용 방안: SW Certificate 등급 취득에 해당 알고리즘 문제가 나올 경우의 합격률을 높일 수 있다.
 			-  https://github.sec.samsung.net/sh-63-park/Idea8on/wiki/2025%E2%80%9011
-- [ ] 개발망 PC에서 집으로 RustDesk 붙여보기🔽 
+- [x] 개발망 PC에서 집으로 RustDesk 붙여보기 🔽 ✅ 2026-03-23
 - [x] GStar 숙박 예약(2025-11-13) 🔼 ✅ 2025-11-04
       [clock::2025-11-04T17:20:00--2025-11-04T17:31:51]
 - [x] Windows 10 VDI 회수 전 조치 📅 2025-10-31 ✅ 2026-01-19
