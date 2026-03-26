@@ -1,0 +1,49 @@
+## Q1. [돌발: 호텔] Tell me about hotels in your country. What do the hotels look like? Describe them for me in detail.
+---
+**Most ==hotels== in Korea are easy to access and usually located in convenient places** like subway stations or shopping areas. **When you picture a typical ==hotel==, you probably imagine a modern and stylish look.** There's always a big sign in both Korean and English, and many of them have automatic doors. Parking isn't always big, but there's usually a space underground or nearby. **Once you step inside, everything feels clean and well-organized.** There's a reception desk or service counter, and the staff are kind and professional. These days, many ==hotels== also offer self-service machines or digital systems, so you don't have to wait long. Plus, there is free Wi-Fi, comfortable seats, and even soft background music, which makes you feel relaxed. Overall, I think ==hotels== in Korea are convenient, efficient and pleasant to use.**
+
+## Q2. [돌발: 은행] Tell me about the banks in your country. Where are they usually located? What do they typically look like?
+
+## Q3. [돌발: 음식점] Tell me about restraunts in your country. What do they typically look like?
+
+## Q1. [선택: 공원] You indicated in the survey that you like to go to a park. Tell me about one of your favorite parks. What does it look like?
+
+**The** [park] **I often go to is [ ], which is located [ ].****특징 1** (크기)I can say **it is one of the biggest [**parks**] in ==the city==,**+ so even when it's busy, it doesn't feel crowded because there's so much space to move around.+ There's always plenty of room to sit, walk or just relax without bumping into other people.+**특징 2** (분위기)**I like to go there because of the warm vibe at the place.**+ People I see there ar mostly kind and welcoming, so it's very enjoyable to spend time there.++**특징 3** (시설)+ **What's more, everything there is well-organized.**+ The facilities are clean and well-maintained, so I can definitely feel comfortable and safe.+ You can also find ==good exercise machines, nice walking trails and cozy cafes inthe park==, which are convenient to use.++++**마무리****All in all, it is a great place to visit.**
+
+## Q2. [선택: 해변] You indicated in the survey that you go to the beach. Tell me about the beach you like to go to. What does this place look like?
+
+## Q3. [선택: 영화 보기 (신규)] You indicated in the survey that you go to the movies. Can you tell me one of the movie theaters you often go to? What does it look like? Why do you go there rather than to other theaters?
+
+## Q4. [돌발: 미용실] Tell me about the place you like to go for a haircut. What does it look like?
+
+## Q5. [돌발: 음식점] Tell me about your favorite take-out or delivery food resaurant. What is this place like? What kind of food do they commonly offer?
+
+## Q1. [선택: 해외여행] You indicated in the survey that you take vacations internationally. Could you describe for me one of the countries you have visited? What does it look like and what are the people like there?
+
+Well, **I'd like to talk about China** that I've been to.+ It's one of our neighboring countries,+ and it takes only two hours to get there by flight.+**특징 1** (자연)**First, China is known for its natural beauty.**+ **It has many famous mountain ranges,** like Himalayas, where people can enjoy the beautiful scenery at any time.+ **Also, China is a vast country with long coastlines,** so it offers stunning beaches and great ocean views.+ Exploring such natural sites is always enjoyable and refreshing.+**특징 2** (도시)**Meanwhile, China is also famous for its dynamic cities** like Beijing and Shanghai.+ People can experience advanced technology, skyscrapers, vibrant nightlife and unique culture in these cities.+ Visiting such metropolitan areas gives them a fun and lively travel experience.++**마무리****Like this, China is a country with natural and cultural diversity.**+
+
+## Q2. [선택: 국내 여행] You indicated in the survey that you take vacations domestically, Tell me some of the places you like to travel and why you like going there.
+
+## Q3. [돌발: 해외 국가] Tell me about a popular place that tourlists like to go to when traveling outside your country.
+
+## Q4 [돌발: 우리 나라] Tell me about a country that is close to your country. What does this country look like, such as its tradition, people, etc.?
+
+## Q5. [돌발: 여가 시간] Tell me about some of the popular places that people in your country like to spend their free time. Do they visit parks or do they go to movie theaters? Describe the places where people like to visit for their free time
+
+
+## Q1 [돌발: 건강] Tell me about a person who is healthy around you. Why do you think he or she is health? What does he or she do to maintain good health?
+
+**Let me tell you about my best friend, [ 이름 ]**+ We've known each other for a long time, and we still talk or meet up regulary.+**특징 1** (외모)**Well, I can say he looks very healthy and energetic.**+ He has a strong build, clear skin, and always seems full of energy.+ Even when we hang out after work, he doesn't look tired or stressed.+ Also, his posture is great, and he always walks with confidence, which makes a strong impression.+**특징 2** (생활습관)**I think the main reason for this is his healthy habits.**+ He exercises almost every day - eighter by jogging, going to the gym, or doing yoga at home.+ He also cares a lot about what he eats.+ Instead of fast food, he usually brings homemade meals with lots of vegetables and high-protein.+**마무리****So, yeah, he's someone I look up to, and he always gives me positive energy.**+
+
+
+## Q2. [돌발: 친구나 가족] Describe a friend or a family member you often see. Who is he or she? What is he or she like?
+
+## Q3. [선택: 집에서 보내는 휴가] You indicated in the survey that you have vacations at your home. Tell me about a person or people you like to see and spend time with at home?
+![[Pasted image 20260319181105.png]]
+
+>[!tip] → 활용 예시:
+>**During vacations,** I usually stay at home to relax, and **I like to spend time with** my best friend [이름].
+>**He’s one of the most energetic and health-conscious people I know,** and honestly, just being around him makes my break more meaningful.
+>**He looks very healthy and always seems full of energy.** Because of that, I feel more motivated and positive when I’m with him.
+>**Also, he lives a very healty lifestyle.** He works out regularly and usually brings simple, home-cooked meals when he comes over. Sometimes, we even do stretching or home workouts together.
+>**Thanks to him, my vacation doesn’t just become a lazy break:** it actually feels refreshing and good for my body and mind.
